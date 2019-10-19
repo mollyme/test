@@ -961,6 +961,13 @@ pre code {
   }
 }
 
+@media (max-width:768px){
+.enclosed {
+  font-size: 0.9rem;
+  font-weight: 300;
+  text-align: left !important;
+}
+}
 @media (min-width: 768px) {
   .col-md {
     flex-basis: 0;
