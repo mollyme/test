@@ -6226,7 +6226,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #182153 !important;
+  background-color: #122040 !important;
 }
 .bg-primary-lite{
   background-color:#464d71;
@@ -6234,7 +6234,7 @@ a.close.disabled {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #148f77 !important;
+  background-color: #464d71 !important;
 }
 
 .bg-secondary {
